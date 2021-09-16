@@ -1,1 +1,2 @@
-# shopify-backend-winter22
+# shopify winter22 backend challenge
+
